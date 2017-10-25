@@ -1,0 +1,124 @@
+body {
+  color: #6A8D92; /*slate gray*/
+  background-color: white;
+  font-family: Open Sans, sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  text-align: center;
+}
+
+p {
+  color: #6A8D92; /*slate gray*/
+  background-color: white;
+  font-family: Open Sans, sans-serif;
+  font-size: 15px;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  text-align: center;
+}
+h1 {
+  color: #1F7A8C; /*green blue*/
+  background-color: white;
+  font-family: Montserrat, sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  font-weight: bold;
+}
+
+h2 {
+  color: #1F7A8C;
+  background-color: white;
+  font-family: Montserrat, sans-serif;
+  font-size: 17px;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  font-weight: bold;
+}
+
+h3 {
+  color: #1F7A8C; /*green blue*/
+  background-color: white;
+  font-family: Montserrat, sans-serif;
+  font-size: 17px;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  font-weight: bold;
+}
+
+a {
+  color: #1F7A8C;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #6A8D92;
+  font-weight: 100;
+}
+
+ul {
+  list-style: none;
+}
+
+th {
+  color: #1F7A8C;
+  background-color: white;
+  font-family: Montserrat, sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  font-weight: bold;
+  text-align: center;
+}
+
+td {
+  color: #1F7A8C;
+  background-color: white;
+  font-family: Montserrat, sans-serif;
+  font-size: 15px;
+  font-weight: 100;
+  text-align: center;
+}
+
+.top_section {
+  text-align: center;
+  background: rgba(250,250,250,0.5);
+  padding: 80px;
+  border-radius: 4px;
+  margin: 0 auto;
+  width: 50%;
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2)
+}
+
+.middle_section {
+  text-align: center;
+  background: rgba(250,250,250,0.5);
+  padding: 80px;
+  border-radius: 4px;
+  margin: 0 auto;
+  width: 50%;
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2)
+}
+
+.bottom_section {
+  text-align: center;
+  background: rgba(250,250,250,0.5);
+  padding: 80px;
+  border-radius: 4px;
+  margin: 0 auto;
+  width: 50%;
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2)
+}
+}
+.photos_of_trips {
+  position: relative;
+  float: left;
+  width:  200px;
+  height: auto;
+  background-position: 50% 50%;
+  background-repeat:  no-repeat;
+  background-size:  cover;
+}
+}
